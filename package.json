@@ -6,8 +6,11 @@
     "hubot": "~2.12.0",
     "hubot-hipchat": "~2.12.0",
     "coffee-script": "~1.9.1",
-    "hubot-giphy-gifme": "~0.1.8",
-    "hubot-catfacts": "^1.0.0"
+    "hubot-giphy-gifme": "*",
+    "hubot-shipit": "*",
+    "hubot-victory": "*",
+    "hubot-business-cat": "*",
+    "hubot-tell":"*"
   },
   "engines": {
     "node": "0.12.x"
