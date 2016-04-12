@@ -1,1 +1,7 @@
-["hubot-giphy-gifme", "hubot-catfacts"]
+[
+  "hubot-giphy-gifme",
+  "hubot-shipit", 
+  "hubot-victory", 
+  "hubot-business-cat", 
+  "hubot-tell"
+]
