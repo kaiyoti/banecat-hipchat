@@ -5,7 +5,9 @@
   "dependencies": {
     "hubot": "~2.12.0",
     "hubot-hipchat": "~2.12.0",
-    "coffee-script": "~1.9.1"
+    "coffee-script": "~1.9.1",
+    "hubot-giphy-gifme": "~0.1.8",
+    "hubot-catfacts": "^1.0.0"
   },
   "engines": {
     "node": "0.12.x"
